@@ -29,3 +29,8 @@ To explore Netflix content and identify trends based on factors such as release 
 
 ## 👩‍💻 Author
 Dhanishta S J
+
+
+## 📊 Power BI Dashboard
+
+![Netflix Data Analysis Dashboard](dashboard.png)
