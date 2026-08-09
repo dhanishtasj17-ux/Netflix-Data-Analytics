@@ -33,4 +33,4 @@ Dhanishta S J
 
 ## 📊 Power BI Dashboard
 
-![Netflix Data Analysis Dashboard](dashboard.png)
+![Netflix Data Analysis Dashboard](Netflix%20dashboard.jpeg)
